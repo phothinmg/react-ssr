@@ -12,8 +12,8 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "declaration": true,
-    "declarationDir": "../dist/server",
+    "declarationDir": "../dist",
     "allowJs": true
   },
-  "include": ["../src/server/**/*"]
+  "include": ["../src/index.js"]
 }

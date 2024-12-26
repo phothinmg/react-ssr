@@ -6,7 +6,7 @@
   "scripts": {
     "build:client": "./build/client.js",
     "build:server": "./build/server.js",
-    "serve": "node dist/server/server/index.js",
+    "serve": "node dist/index.js",
     "build": "npm run build:client && npm run build:server"
   },
   "keywords": [],

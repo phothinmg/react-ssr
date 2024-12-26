@@ -3,7 +3,7 @@
 import $ from "dax-sh";
 import { existsSync } from "node:fs";
 import cleanDirectory from "./clean.js";
-const out = "dist/server";
+const out = "dist";
 
 if (existsSync(out)) {
   await cleanDirectory(out);
