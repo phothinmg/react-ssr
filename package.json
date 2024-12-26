@@ -18,9 +18,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router": "^7.0.2",
-    "showmark": "^0.3.2",
-    "showmark-ctypes": "^0.1.0",
-    "showmark-react": "^0.1.0"
+    "showmark": "^0.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.26.4",
